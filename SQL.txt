@@ -1,0 +1,27 @@
+What is SQL?
+What are the usages of SQL?
+What are the subsets of SQL?
+What is a Data Definition Language?
+What is a Data Manipulation Language?
+What is Data Control Language?
+What are tables and fields in the database?
+What is a foreign key?
+What is a unique key?
+What are the different types of database management systems?
+What is RDBMS?
+What is Normalization in a Database?
+What is the primary use of Normalization?
+What are the disadvantages of not performing Database Normalization?
+What is an inconsistent dependency?
+What is Denormalization in a Database?
+What are the types of operators available in SQL?
+What is view in SQL?
+What is an Index in SQL?
+Which are the different types of indexes in SQL?
+What is the unique Index?
+What is Clustered Index in SQL?
+What is the Non-Clustered Index in SQL?
+What is the difference between SQL, MySQL and SQL Server?
+What is the difference between SQL and PL/SQL?
+1Is it possible to sort a column using a column alias?
+What is the SQL query to display the current date?

@@ -1,0 +1,21 @@
+The history of programming languages spans from documentation of early mechanical computers to modern tools for software development. Early programming languages were highly specialized, relying on mathematical notation and similarly obscure syntax.[1] Throughout the 20th century, research in compiler theory led to the creation of high-level programming languages, which use a more accessible syntax to communicate instructions.
+
+The first high-level programming language was Plankalkül, created by Konrad Zuse between 1942 and 1945.[2] The first high-level language to have an associated compiler was created by Corrado Böhm in 1951, for his PhD thesis.[3] The first commercially available language was FORTRAN (FORmula TRANslation), developed in 1956 (first manual appeared in 1956, but first developed in 1954) by a team led by John Backus at IBM.
+
+Early history
+During 1842–1849, Ada Lovelace translated the memoir of Italian mathematician Luigi Menabrea about Charles Babbage's newest proposed machine: the Analytical Engine; she supplemented the memoir with notes that specified in detail a method for calculating Bernoulli numbers with the engine, recognized by most of historians as the world's first published computer program.[4]
+
+Jacquard Looms and Charles Babbage's Difference Engine both were designed to utilize punched cards,[5][6] which would describe the sequence of operations that their programmable machines should perform.
+
+The first computer codes were specialized for their applications: e.g., Alonzo Church was able to express the lambda calculus in a formulaic way and the Turing machine was an abstraction of the operation of a tape-marking machine.
+
+First programming languages
+In the 1940s, the first recognizably modern electrically powered computers were created. The limited speed and memory capacity forced programmers to write hand-tuned assembly language programs. It was eventually realized that programming in assembly language required a great deal of intellectual effort.[citation needed]
+
+An early proposal for a high-level programming language was Plankalkül, developed by Konrad Zuse for his Z1 computer between 1942 and 1945 but not implemented at the time.[7]
+
+The first functioning programming languages designed to communicate instructions to a computer were written in the early 1950s. John Mauchly's Short Code, proposed in 1949, was one of the first high-level languages ever developed for an electronic computer.[8] Unlike machine code, Short Code statements represented mathematical expressions in understandable form. However, the program had to be interpreted into machine code every time it ran, making the process much slower than running the equivalent machine code.
+
+In the early 1950s, Alick Glennie developed Autocode, possibly the first compiled programming language, at the University of Manchester. In 1954, a second iteration of the language, known as the "Mark 1 Autocode", was developed for the Mark 1 by R. A. Brooker. Brooker, with the University of Manchester, also developed an autocode for the Ferranti Mercury in the 1950s. The version for the EDSAC 2 was devised by Douglas Hartree of University of Cambridge Mathematical Laboratory in 1961. Known as EDSAC 2 Autocode, it was a straight development from Mercury Autocode adapted for local circumstances and was noted for its object code optimization and source-language diagnostics which were advanced for the time. A contemporary but separate thread of development, Atlas Autocode was developed for the University of Manchester Atlas 1 machine.
+
+In 1954, FORTRAN was invented at IBM by a team led by John Backus; it was the first widely used high-level general purpose language to have a functional implementation, in contrast to only a design on paper.[9][10] When FORTRAN was first introduced, it was viewed with skepticism due to bugs, delays in development, and the comparative efficiency of "hand-coded" programs written in assembly.[11] However, in a hardware market that was rapidly evolving, the language eventually became known for its efficiency. It is still a popular language for high-performance computing[12] and is used for programs that benchmark and rank the world's TOP500 fastest supercomputers.[

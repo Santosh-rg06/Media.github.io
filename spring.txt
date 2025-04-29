@@ -1,0 +1,15 @@
+Is there a way to access an iteration-counter in Java's for-each loop?
+What are the Advantages of declaring loop variable as final in enhanced for-loop
+Does returning a value from the loop body break the loop?
+What is the difference between ++i and i++ under increment operators?
+What happens when we forget break in switch case?
+What types of loops does Java support?
+How will you exit anticipatedly from a loop?.
+Which is considered as a selection statement?
+What is the Difference between dead code and unreachable code in Java.
+Can you create switch statement using enum?
+Describe the if-then and if-then-else statements. What types of expressions can be used as conditions?
+What is an enhanced for loop?
+What is the difference between an unlabeled and a labeled break statement?
+In which situations the finally block may not be executed?
+What is the difference between an unlabeled and a labeled continue statement?

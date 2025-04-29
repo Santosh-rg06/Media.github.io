@@ -1,0 +1,33 @@
+What is Abstraction?
+How achieve Abstraction in Java ?
+Real life example of Abstraction ?
+Can I create an abstract variable?
+What is an abstract class?
+Can an abstract class be instantiated?
+Can a abstract class be defined without any abstract methods?
+What is the difference between an Interface and an Abstract class?
+Can an abstract method be declared static in Java?
+Can abstract class have Constructor?
+Can abstract class implement an interface in Java?
+Can an abstract class be final in Java?
+Can abstract class have a static method in Java?
+Can an abstract class have the main method?
+Can we call an abstract method from a non-abstract method?
+Can we mark a local inner class as abstract?
+Can abstract method include throws clause?
+What are arrays in Java programming language?
+How do you declare, instantiate and initialize arrays?
+What are multi-dimensional arrays?
+How do you declare, instantiate and initialize multi-dimensional arrays?
+How do you find the size of arrays?
+What are the default initialization values of elements in an array?
+How do you reverse the elements in an array?
+What happens if you try to access an element with an index greater than the size of the array?
+How do I initialize a String array?
+How do I create a list from Array which is completely independent of the original array?
+What is the index of the first element in an array?
+How do you print the content of an array in Java?
+How do you print the content of a multi dimensional array in Java?
+What is the tradeoff between using an unordered array versus an ordered array?
+Which algorithm does Arrays.sort use in Java?
+Difference between Arrays.sort and Arrays.parallelSort in Java 8.
